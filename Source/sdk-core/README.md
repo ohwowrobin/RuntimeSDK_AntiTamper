@@ -1,8 +1,6 @@
 # Korvayne Runtime — DLL core (canonical source)
 
-The complete source for the `anticheat.dll`. Free and MIT-licensed — clone or download it from
-GitHub (https://github.com/ohwowrobin/korvayne-latest), build, and drop the DLL into your game.
-No license file, no activation, and no server: it arms at full capability out of the box.
+The complete source for the `anticheat.dll`
 
 Self-contained: everything needed to build and sign the DLL, and nothing else (the parent `acsdk\`
 folder holds test fixtures + build artifacts).
