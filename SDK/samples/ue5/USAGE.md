@@ -1,9 +1,5 @@
 # Korvayne Runtime — Unreal Engine 5 wrapper
 
-Korvayne Runtime is free and MIT-licensed. Clone or download it from
-https://github.com/ohwowrobin/korvayne-latest — there is no license file, no key, and no
-server to talk to. The runtime drops in and arms at full capability out of the box.
-
 `ACTGuard.{h,cpp}` is a thin, drop-in wrapper over the cooperative API. All calls are no-ops if the
 DLL didn't load, so they're always safe to call.
 
