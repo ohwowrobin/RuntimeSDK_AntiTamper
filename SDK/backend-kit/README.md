@@ -1,9 +1,5 @@
 # Korvayne Runtime Developer Endpoint Kit
 
-Korvayne Runtime is free and MIT-licensed. Clone or download it from
-https://github.com/ohwowrobin/korvayne-latest. The SDK drops in with no license and no server,
-and arms at full capability out of the box.
-
 This kit is optional. It helps a studio self-host its own telemetry and access-check endpoints for
 Korvayne Runtime if it wants server-side correlation. The SDK runs fully without it; no Korvayne
 server is involved, and no player telemetry leaves the studio's own infrastructure.
